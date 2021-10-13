@@ -2,19 +2,19 @@ div{
     background-color: orange;
     text-align: center;
     width: 800px;
-    margin-left: 600px;
-    height: 400px;
-   }
-   body{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+body{
     background-image: url(https://th.bing.com/th/id/OIP.YVwzCR7IAFbmXc5HPDcKawHaHa?pid=ImgDet&rs=1);
     text-align: center;
-    
-     }
-      button{
-          background-color: aqua;
-          width: 200px;
-          height: 20px;
-      }
-   hr{
-       opacity: 0.0;
-   }
+}
+button{
+    background-color: aqua;
+    width: 200px;
+    height: 20px;
+}
+hr{
+    opacity: 0.0;
+}
